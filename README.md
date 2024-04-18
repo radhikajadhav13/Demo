@@ -1,3 +1,3 @@
 # Demo
 Demo repository <br>
-author - Radhika Jadhav 
+author - Radhika Jadhav (Demo)
